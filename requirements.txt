@@ -7,12 +7,12 @@ ipython
 scikit-learn
 
 # qaoa
-#networkx
-#pytket
-#pytket-cirq
+networkx
+pytket
+pytket-cirq
 
 # quantum chess, only needed for tests
-#scipy
+scipy
 
 # hfvqe
 openfermion==0.11.0
